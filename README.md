@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![jerome0000's github stats](https://github-readme-stats.vercel.app/api?username=jerome0000&show_icons=true&theme=radical&layout=compact) 
+![jerome0000's github stats](https://github-readme-stats.vercel.app/api?username=jerome0000&show_icons=true&layout=compact) 
+
+- 🔭 Baidu 用户增长研发部
+- 💬 Wechat&&Tel 18246054268
+- 😄 猎头勿扰哈！ 真不想换工作！
 
 
 <!--
