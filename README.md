@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=jerome0000&show_icons=true&theme=radical&layout=compact) 
+![jerome0000's github stats](https://github-readme-stats.vercel.app/api?username=jerome0000&show_icons=true&theme=radical&layout=compact) 
 
 
 <!--
