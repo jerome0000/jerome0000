@@ -45,6 +45,7 @@
 
 - 🔭 Baidu 用户增长研发部
 - 💬 Wechat&&Tel 18246054268
+- 💬 Email geekerjohn@163.com
 - 😄 猎头勿扰哈！ 真不想换工作！
 
 - 部门招人！！ PHP or Go or FE 欢迎把简历使劲的甩我脸上。！！！！
