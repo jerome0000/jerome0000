@@ -43,12 +43,11 @@
  */
 ```
 
-- 🔭 Baidu 用户增长
+- 🔭 Baidu 增长和风控技术部
+- 🤔 Go PHP
 - 💬 Wechat&&Tel 18246054268
 - 💬 Email geekerjohn@163.com
-- 😄 猎头勿扰哈！ 真不想换工作！
-
-- 部门招人！！ PHP or Go or FE 欢迎把简历使劲的甩我脸上。！！！！
+- 😄 ...
 
 <!--
 **jerome0000/jerome0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
